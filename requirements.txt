@@ -1,0 +1,7 @@
+playwright
+transformers
+accelerate
+sentence-transformers
+faiss-cpu
+requests
+nest_asyncio
